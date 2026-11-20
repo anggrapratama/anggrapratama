@@ -18,7 +18,7 @@
 ### GAMES 🎮
 ![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
 
-### CONTACT
+### CONTACT 📱
 <a href="https://instagram.com/gede_anggra" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
@@ -33,7 +33,7 @@
 ![Anggra's GitHub stats](https://github-stats-extended.vercel.app/api?username=anggra&theme=tokyonight)
 
 
-### PLAY GAMES WITH ME
+### PLAY GAMES WITH ME 👾
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anggrapratama/anggrapratama/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anggrapratama/anggrapratama/pacman-output/pacman-contribution-graph.svg?game=pacman">
