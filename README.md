@@ -2,8 +2,9 @@
 ![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Hey!%20I%20am%20Anggra&fontSize=45&fontColor=ffffff&desc=Software%20Engineering%20Student&descAlignY=70&descSize=20)
 
 <!-- Animasi GIF Coding -->
+<!-- Animasi GIF Terminal Glitch -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Anggra%20Pratama&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndxZWoxczE5cG9haDJ1NWkyczJqZndmZTh4eW55ZmZ3cmVpYjZkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlzZWFyY2gmY3Q9Zw/du3JEUUZAabGkR3YJz/giphy.gif" width="350" />
 </div>
 
 ### MY SKILL
