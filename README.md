@@ -4,7 +4,7 @@
 <!-- Animasi GIF Coding -->
 <!-- Animasi GIF Terminal Glitch -->
 <div align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndxZWoxczE5cG9haDJ1NWkyczJqZndmZTh4eW55ZmZ3cmVpYjZkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlzZWFyY2gmY3Q9Zw/du3JEUUZAabGkR3YJz/giphy.gif" width="350" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNndxZWoxczE5cG9haDJ1NWkyczJqZndmZTh4eW55ZmZ3cmVpYjZkaiZlcD12MV9pbnRlcm5hbF9naWZfYnlzZWFyY2gmY3Q9Zw/du3JEUUZAabGkR3YJz/giphy.gif" width="350"/>
 </div>
 
 ### MY SKILL
