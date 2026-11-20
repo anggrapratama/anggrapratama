@@ -1,5 +1,6 @@
 <!-- Banner Header (Ganti nama & teks setelah tanda '=' sesuai keinginan, gunakan '+' untuk spasi) -->
-![Banner](https://capsule-render.vercel.app/api?type=rect&color=gradient&height=180&section=header&text=Hey!%20I%20am%20Anggra&fontSize=45&fontColor=ffffff&desc=Software%20Engineering%20Student&descAlignY=70&descSize=20)
+![Banner](img/github-header-banner%20(1).png)
+
 
 <!-- Animasi GIF Coding -->
 <!-- Animasi GIF Terminal Glitch -->
@@ -21,6 +22,26 @@
 <a href="https://instagram.com/gede_anggra" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<a href="https://www.linkedin.com/in/dedeanggra70409" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 <a href="https://github.com/anggrapratama" target="_blank">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+### MY GITHUB STATS
+![Anggra's GitHub stats](https://github-stats-extended.vercel.app/api?username=anggra&theme=tokyonight)
+
+
+### PLAY GAMES WITH ME
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anggrapratama/anggrapratama/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anggrapratama/anggrapratama/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anggrapratama/anggrapratama/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/anggrapratama/anggrapratama/snake-output/snake.svg" alt="Snake animation" />
+
+###
