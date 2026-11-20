@@ -3,7 +3,7 @@
 
 <!-- Animasi GIF Coding -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090d16,50:16222a,100:3a6073&height=230&section=header&text=ANGGRA%20PRATAMA&fontSize=52&fontColor=38bdf8&fontAlignY=38&desc=Building%20Modern%20Web%20%26%20Software%20Solutions&descColor=e2e8f0&descAlignY=58&descSize=19&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Anggra%20Pratama&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=20&animation=fadeIn" width="100%" />
 </div>
 
 ### MY SKILL
