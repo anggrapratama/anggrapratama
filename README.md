@@ -41,7 +41,7 @@ I'm an software engineering student who enjoys crafting clean web interfaces, ex
 ![Anggra's GitHub stats](https://github-stats-extended.vercel.app/api?username=anggra&theme=tokyonight)
 
 
-### Play Games With Me 👾
+### 👾 Play Games With Me 
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anggrapratama/anggrapratama/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anggrapratama/anggrapratama/pacman-output/pacman-contribution-graph.svg?game=pacman">
