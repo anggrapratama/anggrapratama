@@ -23,8 +23,10 @@ I'm an software engineering student who enjoys crafting clean web interfaces, ex
 
 ### 🎮 Games 
 ![PlayStation](https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white)
+![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+![EA Sport FC](https://img.shields.io/badge/EA%20Sports%20FC-00FF87?style=for-the-badge&logo=ea&logoColor=black)
 
-### Connect
+### 📱Connect
 <a href="https://instagram.com/gede_anggra" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
