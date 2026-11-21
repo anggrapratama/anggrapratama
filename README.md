@@ -1,6 +1,6 @@
 <!-- Banner Header (Ganti nama & teks setelah tanda '=' sesuai keinginan, gunakan '+' untuk spasi) -->
 ![Banner](img/github-header-banner%20(2).png)
-# Hi there! 👋 welcone in my GitHub
+# Hi there! 👋 welcome in my GitHub
 
 ### 💻 Full-stack Web Developer | 🎨 Visual & Interface Builder | ⚡ Always Exploring Tech
 
@@ -10,7 +10,7 @@ I'm an software engineering student who enjoys crafting clean web interfaces, ex
 
 <!-- Animasi GIF Coding -->
 <!-- Animasi GIF Terminal Glitch -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
+<img src="img/programmer_website.gif" width="420" alt="Developer coding animation" />
 
 
 ### 🛠️ The Stack
